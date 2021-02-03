@@ -1,3 +1,42 @@
 body {
-    background-color: rgb(6, 21, 43);
+    background-color: rgb(194, 181, 252);
+    font-family:'Rajdhani', sans-serif;
 }
+
+.blurb h2 {
+    color: #e100ff;
+}
+
+.blurb p {
+    color:  rgb(4, 12, 85);
+    font-size: 1.125rem;
+    line-height: 1.75;
+}
+
+.content {
+    margin-top: 75px;
+}
+
+#mainNavbar .navbar-brand {
+    color: #e100ff;
+    font-size: 1.75rem;
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+}
+
+#headingGroup span {
+    color: white;
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+   font-size: 3rem;
+   color: rgb(4, 12, 85);
+}
+
+.navbar.scrolled {
+    background-color: rgba(93, 38, 138, 0.767);
+}
+
