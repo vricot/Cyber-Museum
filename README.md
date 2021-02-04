@@ -2,7 +2,7 @@ Hello and welcome to my Cyber Museum website! This is a Bootstrap project made f
 
 The IMG folder holds all of the website images, some unused. 
 
-Only the homepage, using index.html, is made so far; I will likely revisit to create other pages such as an ABOUT section!
+Only the homepage, using index.html, is made so far; I will likely revisit to create other pages such as an About section!
 
 The style.css stylesheet holds my personal extra styling that Bootstrap doesn't provide. 
 
